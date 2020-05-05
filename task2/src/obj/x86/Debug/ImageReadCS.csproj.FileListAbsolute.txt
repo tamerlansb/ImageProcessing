@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Учёба\Спец сем (5 сем)\LoadImageCS\bin\Debug\ImageReadCS.exe
+C:\Users\Admin\Desktop\Учёба\Спец сем (5 сем)\LoadImageCS\bin\Debug\ImageReadCS.pdb
+C:\Users\Admin\Desktop\Учёба\Спец сем (5 сем)\LoadImageCS\obj\x86\Debug\ImageReadCS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Учёба\Спец сем (5 сем)\LoadImageCS\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\Desktop\Учёба\Спец сем (5 сем)\LoadImageCS\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Admin\task2\LoadImageCS\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\task2\LoadImageCS\obj\x86\Debug\ImageReadCS.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\task1\LoadImageCS\bin\Debug\ImageReadCS.exe
+C:\Users\Admin\task1\LoadImageCS\bin\Debug\ImageReadCS.pdb
+C:\Users\Admin\task1\LoadImageCS\obj\x86\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\task1\LoadImageCS\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\task1\LoadImageCS\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Admin\задание 1\src\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\задание 1\src\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Tamerlan\task3\задание 1\задание 1\src\bin\Debug\ImageReadCS.exe
+C:\Users\Tamerlan\task3\задание 1\задание 1\src\bin\Debug\ImageReadCS.pdb
+C:\Users\Tamerlan\task3\задание 1\задание 1\src\obj\x86\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Tamerlan\task3\задание 1\задание 1\src\obj\x86\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Tamerlan\task3\задание 1\задание 1\src\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Tamerlan\task3\задание 1\задание 1\src\obj\x86\Debug\ImageReadCS.pdb

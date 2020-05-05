@@ -1,0 +1,26 @@
+C:\Users\Admin\task2\LoadImageCS\bin\Debug\ImageReadCS.exe
+C:\Users\Admin\task2\LoadImageCS\bin\Debug\ImageReadCS.pdb
+C:\Users\Admin\task2\LoadImageCS\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\task2\LoadImageCS\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\task2\LoadImageCS\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Admin\task2\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\task2\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Admin\task2\bin\Debug\ImageReadCS.exe
+C:\Users\Admin\task2\bin\Debug\ImageReadCS.pdb
+C:\Users\Admin\task2\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\задание 2\src\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\задание 2\src\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Admin\задание 2\src\bin\Debug\ImageReadCS.exe
+C:\Users\Admin\задание 2\src\bin\Debug\ImageReadCS.pdb
+C:\Users\Admin\задание 2\src\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\task3\задание 2\задание 2\src\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Admin\task3\задание 2\задание 2\src\obj\x86\Debug\ImageReadCS.pdb
+C:\Users\Admin\task3\задание 2\задание 2\src\bin\Debug\ImageReadCS.exe
+C:\Users\Admin\task3\задание 2\задание 2\src\bin\Debug\ImageReadCS.pdb
+C:\Users\Admin\task3\задание 2\задание 2\src\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Tamerlan\task3\задание 2\задание 2\src\bin\Debug\ImageReadCS.exe
+C:\Users\Tamerlan\task3\задание 2\задание 2\src\bin\Debug\ImageReadCS.pdb
+C:\Users\Tamerlan\task3\задание 2\задание 2\src\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Tamerlan\task3\задание 2\задание 2\src\obj\x86\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Tamerlan\task3\задание 2\задание 2\src\obj\x86\Debug\ImageReadCS.exe
+C:\Users\Tamerlan\task3\задание 2\задание 2\src\obj\x86\Debug\ImageReadCS.pdb
